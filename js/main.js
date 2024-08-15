@@ -14,8 +14,6 @@
     hideDistantElements: false,
     scrollProperty: 'scroll'
   });
-
-
 	var fullHeight = function() {
 
 		$('.js-fullheight').css('height', $(window).height());
