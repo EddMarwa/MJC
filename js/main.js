@@ -173,8 +173,6 @@
 	};
 	scrollWindow();
 
-
-
 	var counter = function() {
 
 		$('#section-counter, .hero-wrap, .ftco-counter, .ftco-causes').waypoint( function( direction ) {
